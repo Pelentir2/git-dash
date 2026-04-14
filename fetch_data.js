@@ -18,7 +18,7 @@ const URL = `https://graph.facebook.com/${API_VERSION}/${AD_ACCOUNT_ID}/insights
 // Definimos as métricas que queremos puxar (gastos, cliques, cpc, etc) e o período
 const params = {
     access_token: ACCESS_TOKEN,
-    fields: 'campaign_name,spend,impressions,clicks,cpc,cpm,ctr', 
+    fields: 'campaign_name,spend,impressions,clicks,cpc,cpm,ctr,reach,actions,cost_per_action_type', 
     level: 'campaign', // Puxar dados a nível de campanha
     date_preset: 'last_30d', // Período: últimos 30 dias (pode mudar para 'maximum', 'this_month', etc)
 };
