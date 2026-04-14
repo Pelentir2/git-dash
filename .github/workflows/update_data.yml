@@ -1,0 +1,39 @@
+name: Fetch Facebook Ads Data
+
+on:
+  schedule:
+    # Roda todo dia as 08:00 UTC (05:00 Brasilia) ~ modifique os números se quiser outro horario
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Permite rodar o workflow manualmente no painel Actions do GitHub
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Fetch Data from Facebook API
+        # Aqui o robô injeta as coisas secretas que você salvou no repositório!
+        env:
+          FB_ACCESS_TOKEN: ${{ secrets.FB_ACCESS_TOKEN }}
+          FB_AD_ACCOUNT_ID: ${{ secrets.FB_AD_ACCOUNT_ID }}
+        run: node fetch_data.js
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          # Adiciona os dados novos
+          git add data/campaign_data.json || echo "Nenhum arquivo novo"
+          # O commit só acontece se houver mudanças nos arquivos
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated update: Facebook Ads Data" && git push)

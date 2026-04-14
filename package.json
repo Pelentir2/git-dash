@@ -1,0 +1,12 @@
+{
+  "name": "fb-ads-automation",
+  "version": "1.0.0",
+  "description": "Script para buscar métricas do Facebook Ads",
+  "main": "fetch_data.js",
+  "scripts": {
+    "start": "node fetch_data.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
