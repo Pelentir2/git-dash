@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meta Ads Dashboard Pro</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Ícones -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="dashboard-container">
+        
+        <!-- Header -->
+        <header class="header">
+            <div class="header-title">
+                <h1>Meta Ads Performance</h1>
+                <p>Análise de Campanhas Automatizada</p>
+            </div>
+            
+            <div class="header-controls">
+                <div class="date-filter">
+                    <i class="fa-regular fa-calendar"></i>
+                    <select id="date-select">
+                        <option value="last_30d">Últimos 30 dias (Atual)</option>
+                        <!-- Quando criarmos mais granularidade na API, podemos ativar outras opções -->
+                        <option value="last_7d" disabled>Últimos 7 dias (Em breve)</option>
+                        <option value="this_month" disabled>Este Mês (Em breve)</option>
+                    </select>
+                </div>
+                <button class="btn-refresh" id="btn-refresh" onclick="location.reload()">
+                    <i class="fa-solid fa-rotate-right"></i> Atualizar Dados
+                </button>
+            </div>
+        </header>
+
+        <!-- KPIs Cards -->
+        <section class="kpis-grid">
+            <div class="kpi-card card-glow">
+                <div class="kpi-icon"><i class="fa-solid fa-money-bill-wave"></i></div>
+                <div class="kpi-data">
+                    <p class="kpi-label">Investimento Total</p>
+                    <h2 class="kpi-value" id="kpi-spend">R$ 0,00</h2>
+                </div>
+            </div>
+
+            <div class="kpi-card card-glow">
+                <div class="kpi-icon"><i class="fa-regular fa-eye"></i></div>
+                <div class="kpi-data">
+                    <p class="kpi-label">Impressões</p>
+                    <h2 class="kpi-value" id="kpi-impressions">0</h2>
+                </div>
+            </div>
+
+            <div class="kpi-card card-glow">
+                <div class="kpi-icon"><i class="fa-solid fa-hand-pointer"></i></div>
+                <div class="kpi-data">
+                    <p class="kpi-label">Cliques</p>
+                    <h2 class="kpi-value" id="kpi-clicks">0</h2>
+                </div>
+            </div>
+
+            <div class="kpi-card card-glow">
+                <div class="kpi-icon"><i class="fa-solid fa-bullseye"></i></div>
+                <div class="kpi-data">
+                    <p class="kpi-label">CTR Médio</p>
+                    <h2 class="kpi-value" id="kpi-ctr">0%</h2>
+                </div>
+            </div>
+
+            <div class="kpi-card card-glow">
+                <div class="kpi-icon"><i class="fa-solid fa-tags"></i></div>
+                <div class="kpi-data">
+                    <p class="kpi-label">CPC Médio</p>
+                    <h2 class="kpi-value" id="kpi-cpc">R$ 0,00</h2>
+                </div>
+            </div>
+
+            <div class="kpi-card card-glow">
+                <div class="kpi-icon"><i class="fa-solid fa-users"></i></div>
+                <div class="kpi-data">
+                    <p class="kpi-label">CPM Médio</p>
+                    <h2 class="kpi-value" id="kpi-cpm">R$ 0,00</h2>
+                </div>
+            </div>
+        </section>
+
+        <!-- Charts and Tables Area -->
+        <div class="main-content-grid">
+            
+            <!-- Principal Chart -->
+            <section class="chart-section card-glow">
+                <div class="section-header">
+                    <h3>Cliques vs Investimento por Campanha</h3>
+                </div>
+                <div class="chart-container">
+                    <canvas id="performanceChart"></canvas>
+                </div>
+            </section>
+
+            <!-- Data Table -->
+            <section class="table-section card-glow">
+                <div class="section-header">
+                    <h3>Detalhamento das Campanhas</h3>
+                </div>
+                <div class="table-container">
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>Nome da Campanha</th>
+                                <th>Investimento</th>
+                                <th>Impressões</th>
+                                <th>Cliques</th>
+                                <th>CTR</th>
+                                <th>CPC</th>
+                            </tr>
+                        </thead>
+                        <tbody id="table-body">
+                            <!-- Inserido por Javascript -->
+                            <tr>
+                                <td colspan="6" style="text-align: center;">Carregando dados...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
