@@ -24,10 +24,10 @@ function getActionValue(actionsArray, types) {
     return total;
 }
 
-// O Facebook tem vários nomes para Mensagens: messages, onsite_conversion.messaging_conversation_started_7d, etc.
-const MSG_TYPES = ['messages', 'onsite_conversion.messaging_conversation_started_7d', 'onsite_conversion.messaging_first_reply'];
-// Visita na página de destino
-const LPV_TYPES = ['landing_page_view'];
+// Facebook pode duplicar contagem se listarmos multiplos. Para precisão REAL:
+const MSG_TYPES = ['onsite_conversion.messaging_conversation_started_7d'];
+// Traduzindo clique de saída para Visita ao Perfil devido ao objetivo da campanha do Instagram
+const LPV_TYPES = ['link_click'];
 
 async function loadData() {
     try {
