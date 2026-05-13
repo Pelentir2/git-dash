@@ -1,21 +1,21 @@
 [
   {
     "campaign_name": "Post do Instagram: 🚨🚨 ATENÇÃO TAMARANA 🚨🚨\n\nA...",
-    "spend": "17.95",
-    "impressions": "2145",
-    "clicks": "34",
-    "cpc": "0.527941",
-    "cpm": "8.368298",
-    "ctr": "1.585082",
-    "reach": "1684",
+    "spend": "11.76",
+    "impressions": "1343",
+    "clicks": "26",
+    "cpc": "0.452308",
+    "cpm": "8.756515",
+    "ctr": "1.935964",
+    "reach": "1131",
     "actions": [
       {
         "action_type": "link_click",
-        "value": "32"
+        "value": "24"
       },
       {
         "action_type": "page_engagement",
-        "value": "538"
+        "value": "343"
       },
       {
         "action_type": "onsite_conversion.post_unlike",
@@ -23,19 +23,19 @@
       },
       {
         "action_type": "post_engagement",
-        "value": "538"
+        "value": "343"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "6"
+        "value": "4"
       },
       {
         "action_type": "post_interaction_net",
-        "value": "7"
+        "value": "5"
       },
       {
         "action_type": "onsite_conversion.post_net_like",
-        "value": "5"
+        "value": "3"
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_replied_7d",
@@ -43,71 +43,71 @@
       },
       {
         "action_type": "video_view",
-        "value": "500"
+        "value": "315"
       },
       {
         "action_type": "post_reaction",
-        "value": "6"
+        "value": "4"
       }
     ],
     "cost_per_action_type": [
       {
         "action_type": "video_view",
-        "value": "0.0359"
+        "value": "0.037333"
       },
       {
         "action_type": "link_click",
-        "value": "0.560938"
+        "value": "0.49"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "2.991667"
+        "value": "2.94"
       },
       {
         "action_type": "post_engagement",
-        "value": "0.033364"
+        "value": "0.034286"
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_replied_7d",
-        "value": "17.95"
+        "value": "11.76"
       },
       {
         "action_type": "page_engagement",
-        "value": "0.033364"
+        "value": "0.034286"
       }
     ],
-    "date_start": "2026-04-12",
-    "date_stop": "2026-05-11"
+    "date_start": "2026-04-13",
+    "date_stop": "2026-05-12"
   },
   {
     "campaign_name": "Post do Instagram: Quer saber como garantir as...",
-    "spend": "17.67",
-    "impressions": "1711",
-    "clicks": "99",
-    "cpc": "0.178485",
-    "cpm": "10.327294",
-    "ctr": "5.78609",
-    "reach": "1623",
+    "spend": "11.83",
+    "impressions": "1176",
+    "clicks": "58",
+    "cpc": "0.203966",
+    "cpm": "10.059524",
+    "ctr": "4.931973",
+    "reach": "1134",
     "actions": [
       {
         "action_type": "link_click",
-        "value": "99"
+        "value": "58"
       },
       {
         "action_type": "page_engagement",
-        "value": "929"
+        "value": "608"
       },
       {
         "action_type": "post_engagement",
-        "value": "929"
+        "value": "608"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "13"
+        "value": "10"
       },
       {
         "action_type": "post_interaction_net",
-        "value": "13"
+        "value": "10"
       },
       {
         "action_type": "post",
@@ -115,63 +115,63 @@
       },
       {
         "action_type": "onsite_conversion.post_net_like",
-        "value": "12"
+        "value": "9"
       },
       {
         "action_type": "video_view",
-        "value": "817"
+        "value": "540"
       },
       {
         "action_type": "post_reaction",
-        "value": "12"
+        "value": "9"
       }
     ],
     "cost_per_action_type": [
       {
         "action_type": "video_view",
-        "value": "0.021628"
+        "value": "0.021907"
       },
       {
         "action_type": "link_click",
-        "value": "0.178485"
+        "value": "0.203966"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "1.359231"
+        "value": "1.183"
       },
       {
         "action_type": "post_engagement",
-        "value": "0.01902"
+        "value": "0.019457"
       },
       {
         "action_type": "page_engagement",
-        "value": "0.01902"
+        "value": "0.019457"
       }
     ],
-    "date_start": "2026-04-12",
-    "date_stop": "2026-05-11"
+    "date_start": "2026-04-13",
+    "date_stop": "2026-05-12"
   },
   {
     "campaign_name": "[WP][CAMPANHA DE MENSAGEM][DIRETO PRO WHATS]",
-    "spend": "193.13",
-    "impressions": "28709",
-    "clicks": "228",
-    "cpc": "0.847061",
-    "cpm": "6.727159",
-    "ctr": "0.794176",
-    "reach": "4785",
+    "spend": "191.89",
+    "impressions": "28216",
+    "clicks": "220",
+    "cpc": "0.872227",
+    "cpm": "6.800751",
+    "ctr": "0.779699",
+    "reach": "4791",
     "actions": [
       {
         "action_type": "onsite_conversion.total_messaging_connection",
-        "value": "25"
+        "value": "26"
       },
       {
         "action_type": "link_click",
-        "value": "105"
+        "value": "102"
       },
       {
         "action_type": "page_engagement",
-        "value": "3191"
+        "value": "3116"
       },
       {
         "action_type": "onsite_conversion.post_unlike",
@@ -179,7 +179,7 @@
       },
       {
         "action_type": "post_engagement",
-        "value": "3191"
+        "value": "3116"
       },
       {
         "action_type": "post_interaction_gross",
@@ -199,7 +199,7 @@
       },
       {
         "action_type": "onsite_conversion.messaging_first_reply",
-        "value": "15"
+        "value": "16"
       },
       {
         "action_type": "onsite_conversion.post_save",
@@ -227,7 +227,7 @@
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_started_7d",
-        "value": "22"
+        "value": "23"
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_replied_7d",
@@ -235,7 +235,7 @@
       },
       {
         "action_type": "video_view",
-        "value": "3044"
+        "value": "2972"
       },
       {
         "action_type": "post_reaction",
@@ -245,85 +245,85 @@
     "cost_per_action_type": [
       {
         "action_type": "video_view",
-        "value": "0.063446"
+        "value": "0.064566"
       },
       {
         "action_type": "link_click",
-        "value": "1.839333"
+        "value": "1.881275"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "4.598333"
+        "value": "4.56881"
       },
       {
         "action_type": "onsite_conversion.total_messaging_connection",
-        "value": "7.7252"
+        "value": "7.380385"
       },
       {
         "action_type": "post_engagement",
-        "value": "0.060523"
+        "value": "0.061582"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_5_message_send",
-        "value": "10.164737"
+        "value": "10.099474"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
-        "value": "12.875333"
+        "value": "12.792667"
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_replied_7d",
-        "value": "48.2825"
+        "value": "47.9725"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
-        "value": "17.557273"
+        "value": "17.444545"
       },
       {
         "action_type": "page_engagement",
-        "value": "0.060523"
+        "value": "0.061582"
       },
       {
         "action_type": "onsite_conversion.messaging_first_reply",
-        "value": "12.875333"
+        "value": "11.993125"
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_started_7d",
-        "value": "8.778636"
+        "value": "8.343043"
       }
     ],
-    "date_start": "2026-04-12",
-    "date_stop": "2026-05-11"
+    "date_start": "2026-04-13",
+    "date_stop": "2026-05-12"
   },
   {
     "campaign_name": "Post do Instagram: A ShopLar foi para as ruas de...",
-    "spend": "25.82",
-    "impressions": "3347",
-    "clicks": "85",
-    "cpc": "0.303765",
-    "cpm": "7.714371",
-    "ctr": "2.539588",
-    "reach": "2046",
+    "spend": "30.94",
+    "impressions": "3944",
+    "clicks": "94",
+    "cpc": "0.329149",
+    "cpm": "7.844828",
+    "ctr": "2.383367",
+    "reach": "2321",
     "actions": [
       {
         "action_type": "link_click",
-        "value": "85"
+        "value": "94"
       },
       {
         "action_type": "page_engagement",
-        "value": "1192"
+        "value": "1394"
       },
       {
         "action_type": "post_engagement",
-        "value": "1192"
+        "value": "1394"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "38"
+        "value": "46"
       },
       {
         "action_type": "post_interaction_net",
-        "value": "38"
+        "value": "46"
       },
       {
         "action_type": "post",
@@ -331,40 +331,40 @@
       },
       {
         "action_type": "onsite_conversion.post_net_like",
-        "value": "33"
+        "value": "41"
       },
       {
         "action_type": "video_view",
-        "value": "1069"
+        "value": "1254"
       },
       {
         "action_type": "post_reaction",
-        "value": "33"
+        "value": "41"
       }
     ],
     "cost_per_action_type": [
       {
         "action_type": "video_view",
-        "value": "0.024153"
+        "value": "0.024673"
       },
       {
         "action_type": "link_click",
-        "value": "0.303765"
+        "value": "0.329149"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "0.679474"
+        "value": "0.672609"
       },
       {
         "action_type": "post_engagement",
-        "value": "0.021661"
+        "value": "0.022195"
       },
       {
         "action_type": "page_engagement",
-        "value": "0.021661"
+        "value": "0.022195"
       }
     ],
-    "date_start": "2026-04-12",
-    "date_stop": "2026-05-11"
+    "date_start": "2026-04-13",
+    "date_stop": "2026-05-12"
   }
 ]
