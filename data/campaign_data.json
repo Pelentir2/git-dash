@@ -1,25 +1,25 @@
 [
   {
     "campaign_name": "[WP][CAMPANHA DE MENSAGEM][DIRETO PRO WHATS]",
-    "spend": "148.65",
-    "impressions": "20243",
-    "clicks": "188",
-    "cpc": "0.790691",
-    "cpm": "7.343279",
-    "ctr": "0.928716",
-    "reach": "4425",
+    "spend": "142.9",
+    "impressions": "19169",
+    "clicks": "186",
+    "cpc": "0.76828",
+    "cpm": "7.454745",
+    "ctr": "0.970317",
+    "reach": "4287",
     "actions": [
       {
         "action_type": "link_click",
-        "value": "73"
+        "value": "67"
       },
       {
         "action_type": "page_engagement",
-        "value": "2523"
+        "value": "2489"
       },
       {
         "action_type": "onsite_conversion.total_messaging_connection",
-        "value": "23"
+        "value": "24"
       },
       {
         "action_type": "onsite_conversion.post_unlike",
@@ -27,11 +27,11 @@
       },
       {
         "action_type": "post_engagement",
-        "value": "2523"
+        "value": "2489"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "48"
+        "value": "51"
       },
       {
         "action_type": "comment",
@@ -39,11 +39,11 @@
       },
       {
         "action_type": "post_interaction_net",
-        "value": "49"
+        "value": "52"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
-        "value": "13"
+        "value": "14"
       },
       {
         "action_type": "onsite_conversion.messaging_first_reply",
@@ -67,7 +67,7 @@
       },
       {
         "action_type": "onsite_conversion.post_net_like",
-        "value": "43"
+        "value": "46"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_5_message_send",
@@ -83,65 +83,65 @@
       },
       {
         "action_type": "video_view",
-        "value": "2402"
+        "value": "2371"
       },
       {
         "action_type": "post_reaction",
-        "value": "44"
+        "value": "47"
       }
     ],
     "cost_per_action_type": [
       {
         "action_type": "video_view",
-        "value": "0.061886"
+        "value": "0.06027"
       },
       {
         "action_type": "link_click",
-        "value": "2.036301"
+        "value": "2.132836"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "3.096875"
+        "value": "2.801961"
       },
       {
         "action_type": "onsite_conversion.total_messaging_connection",
-        "value": "6.463043"
+        "value": "5.954167"
       },
       {
         "action_type": "post_engagement",
-        "value": "0.058918"
+        "value": "0.057413"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_5_message_send",
-        "value": "7.4325"
+        "value": "7.145"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
-        "value": "11.434615"
+        "value": "10.207143"
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_replied_7d",
-        "value": "74.325"
+        "value": "71.45"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
-        "value": "12.3875"
+        "value": "11.908333"
       },
       {
         "action_type": "page_engagement",
-        "value": "0.058918"
+        "value": "0.057413"
       },
       {
         "action_type": "onsite_conversion.messaging_first_reply",
-        "value": "9.91"
+        "value": "9.526667"
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_started_7d",
-        "value": "7.4325"
+        "value": "7.145"
       }
     ],
-    "date_start": "2026-04-22",
-    "date_stop": "2026-05-21"
+    "date_start": "2026-04-23",
+    "date_stop": "2026-05-22"
   },
   {
     "campaign_name": "Post do Instagram: A ShopLar foi para as ruas de...",
@@ -216,7 +216,7 @@
         "value": "0.023766"
       }
     ],
-    "date_start": "2026-04-22",
-    "date_stop": "2026-05-21"
+    "date_start": "2026-04-23",
+    "date_stop": "2026-05-22"
   }
 ]
