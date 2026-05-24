@@ -1,21 +1,21 @@
 [
   {
     "campaign_name": "[WP][CAMPANHA DE MENSAGEM][DIRETO PRO WHATS]",
-    "spend": "142.9",
-    "impressions": "19169",
-    "clicks": "186",
-    "cpc": "0.76828",
-    "cpm": "7.454745",
-    "ctr": "0.970317",
-    "reach": "4287",
+    "spend": "132.49",
+    "impressions": "17717",
+    "clicks": "174",
+    "cpc": "0.761437",
+    "cpm": "7.478128",
+    "ctr": "0.982108",
+    "reach": "4186",
     "actions": [
       {
         "action_type": "link_click",
-        "value": "67"
+        "value": "59"
       },
       {
         "action_type": "page_engagement",
-        "value": "2489"
+        "value": "2351"
       },
       {
         "action_type": "onsite_conversion.total_messaging_connection",
@@ -27,11 +27,11 @@
       },
       {
         "action_type": "post_engagement",
-        "value": "2489"
+        "value": "2351"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "51"
+        "value": "48"
       },
       {
         "action_type": "comment",
@@ -39,15 +39,15 @@
       },
       {
         "action_type": "post_interaction_net",
-        "value": "52"
+        "value": "49"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
-        "value": "14"
+        "value": "13"
       },
       {
         "action_type": "onsite_conversion.messaging_first_reply",
-        "value": "15"
+        "value": "14"
       },
       {
         "action_type": "onsite_conversion.post_save",
@@ -59,7 +59,7 @@
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
-        "value": "12"
+        "value": "11"
       },
       {
         "action_type": "onsite_conversion.post_net_save",
@@ -67,11 +67,11 @@
       },
       {
         "action_type": "onsite_conversion.post_net_like",
-        "value": "46"
+        "value": "43"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_5_message_send",
-        "value": "20"
+        "value": "10"
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_started_7d",
@@ -83,65 +83,65 @@
       },
       {
         "action_type": "video_view",
-        "value": "2371"
+        "value": "2244"
       },
       {
         "action_type": "post_reaction",
-        "value": "47"
+        "value": "44"
       }
     ],
     "cost_per_action_type": [
       {
         "action_type": "video_view",
-        "value": "0.06027"
+        "value": "0.059042"
       },
       {
         "action_type": "link_click",
-        "value": "2.132836"
+        "value": "2.245593"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "2.801961"
+        "value": "2.760208"
       },
       {
         "action_type": "onsite_conversion.total_messaging_connection",
-        "value": "5.954167"
+        "value": "5.520417"
       },
       {
         "action_type": "post_engagement",
-        "value": "0.057413"
+        "value": "0.056355"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_5_message_send",
-        "value": "7.145"
+        "value": "13.249"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
-        "value": "10.207143"
+        "value": "10.191538"
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_replied_7d",
-        "value": "71.45"
+        "value": "66.245"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
-        "value": "11.908333"
+        "value": "12.044545"
       },
       {
         "action_type": "page_engagement",
-        "value": "0.057413"
+        "value": "0.056355"
       },
       {
         "action_type": "onsite_conversion.messaging_first_reply",
-        "value": "9.526667"
+        "value": "9.463571"
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_started_7d",
-        "value": "7.145"
+        "value": "6.6245"
       }
     ],
-    "date_start": "2026-04-23",
-    "date_stop": "2026-05-22"
+    "date_start": "2026-04-24",
+    "date_stop": "2026-05-23"
   },
   {
     "campaign_name": "Post do Instagram: A ShopLar foi para as ruas de...",
@@ -216,7 +216,7 @@
         "value": "0.023766"
       }
     ],
-    "date_start": "2026-04-23",
-    "date_stop": "2026-05-22"
+    "date_start": "2026-04-24",
+    "date_stop": "2026-05-23"
   }
 ]
