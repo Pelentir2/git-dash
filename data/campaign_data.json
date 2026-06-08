@@ -1,25 +1,25 @@
 [
   {
     "campaign_name": "[WP][CAMPANHA DE MENSAGEM][DIRETO PRO WHATS]",
-    "spend": "151.61",
-    "impressions": "17393",
-    "clicks": "273",
-    "cpc": "0.555348",
-    "cpm": "8.716725",
-    "ctr": "1.569597",
-    "reach": "4764",
+    "spend": "152.66",
+    "impressions": "17314",
+    "clicks": "281",
+    "cpc": "0.543274",
+    "cpm": "8.817142",
+    "ctr": "1.622964",
+    "reach": "4847",
     "actions": [
       {
         "action_type": "link_click",
-        "value": "48"
+        "value": "49"
       },
       {
         "action_type": "post_reaction",
-        "value": "67"
+        "value": "66"
       },
       {
         "action_type": "page_engagement",
-        "value": "3132"
+        "value": "3204"
       },
       {
         "action_type": "onsite_conversion.total_messaging_connection",
@@ -31,7 +31,7 @@
       },
       {
         "action_type": "post_engagement",
-        "value": "3130"
+        "value": "3202"
       },
       {
         "action_type": "like",
@@ -39,11 +39,11 @@
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "69"
+        "value": "68"
       },
       {
         "action_type": "post_interaction_net",
-        "value": "70"
+        "value": "69"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
@@ -67,7 +67,7 @@
       },
       {
         "action_type": "onsite_conversion.post_net_like",
-        "value": "66"
+        "value": "65"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_5_message_send",
@@ -83,87 +83,87 @@
       },
       {
         "action_type": "video_view",
-        "value": "3013"
+        "value": "3085"
       }
     ],
     "cost_per_action_type": [
       {
         "action_type": "video_view",
-        "value": "0.050319"
+        "value": "0.049485"
       },
       {
         "action_type": "link_click",
-        "value": "3.158542"
+        "value": "3.11551"
       },
       {
         "action_type": "like",
-        "value": "75.805"
+        "value": "76.33"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "2.197246"
+        "value": "2.245"
       },
       {
         "action_type": "onsite_conversion.total_messaging_connection",
-        "value": "6.891364"
+        "value": "6.939091"
       },
       {
         "action_type": "post_engagement",
-        "value": "0.048438"
+        "value": "0.047676"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_5_message_send",
-        "value": "13.782727"
+        "value": "13.878182"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
-        "value": "13.782727"
+        "value": "13.878182"
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_replied_7d",
-        "value": "151.61"
+        "value": "152.66"
       },
       {
         "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
-        "value": "18.95125"
+        "value": "19.0825"
       },
       {
         "action_type": "page_engagement",
-        "value": "0.048407"
+        "value": "0.047647"
       },
       {
         "action_type": "onsite_conversion.messaging_first_reply",
-        "value": "10.829286"
+        "value": "10.904286"
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_started_7d",
-        "value": "8.422778"
+        "value": "8.481111"
       }
     ],
-    "date_start": "2026-05-08",
-    "date_stop": "2026-06-06"
+    "date_start": "2026-05-09",
+    "date_stop": "2026-06-07"
   },
   {
     "campaign_name": "Post do Instagram: A ShopLar foi para as ruas de...",
-    "spend": "52.33",
-    "impressions": "6101",
-    "clicks": "129",
-    "cpc": "0.405659",
-    "cpm": "8.577282",
-    "ctr": "2.114407",
-    "reach": "3421",
+    "spend": "48.24",
+    "impressions": "5574",
+    "clicks": "117",
+    "cpc": "0.412308",
+    "cpm": "8.654467",
+    "ctr": "2.099031",
+    "reach": "3278",
     "actions": [
       {
         "action_type": "link_click",
-        "value": "128"
+        "value": "117"
       },
       {
         "action_type": "post_reaction",
-        "value": "54"
+        "value": "47"
       },
       {
         "action_type": "page_engagement",
-        "value": "2126"
+        "value": "1943"
       },
       {
         "action_type": "onsite_conversion.post_unlike",
@@ -171,75 +171,75 @@
       },
       {
         "action_type": "post_engagement",
-        "value": "2126"
+        "value": "1943"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "58"
+        "value": "49"
       },
       {
         "action_type": "post_interaction_net",
-        "value": "59"
+        "value": "50"
       },
       {
         "action_type": "post",
-        "value": "4"
+        "value": "2"
       },
       {
         "action_type": "onsite_conversion.post_net_like",
-        "value": "53"
+        "value": "46"
       },
       {
         "action_type": "video_view",
-        "value": "1940"
+        "value": "1777"
       }
     ],
     "cost_per_action_type": [
       {
         "action_type": "video_view",
-        "value": "0.026974"
+        "value": "0.027147"
       },
       {
         "action_type": "link_click",
-        "value": "0.408828"
+        "value": "0.412308"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "0.902241"
+        "value": "0.98449"
       },
       {
         "action_type": "post_engagement",
-        "value": "0.024614"
+        "value": "0.024828"
       },
       {
         "action_type": "page_engagement",
-        "value": "0.024614"
+        "value": "0.024828"
       }
     ],
-    "date_start": "2026-05-08",
-    "date_stop": "2026-06-06"
+    "date_start": "2026-05-09",
+    "date_stop": "2026-06-07"
   },
   {
     "campaign_name": "ALCANCE FASE 1",
-    "spend": "33.57",
-    "impressions": "23915",
-    "clicks": "75",
-    "cpc": "0.4476",
-    "cpm": "1.403722",
-    "ctr": "0.313611",
-    "reach": "17354",
+    "spend": "40.53",
+    "impressions": "28666",
+    "clicks": "88",
+    "cpc": "0.460568",
+    "cpm": "1.41387",
+    "ctr": "0.306984",
+    "reach": "20068",
     "actions": [
       {
         "action_type": "link_click",
-        "value": "34"
+        "value": "42"
       },
       {
         "action_type": "post_reaction",
-        "value": "7"
+        "value": "8"
       },
       {
         "action_type": "page_engagement",
-        "value": "417"
+        "value": "463"
       },
       {
         "action_type": "onsite_conversion.total_messaging_connection",
@@ -247,15 +247,15 @@
       },
       {
         "action_type": "post_engagement",
-        "value": "417"
+        "value": "463"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "7"
+        "value": "8"
       },
       {
         "action_type": "post_interaction_net",
-        "value": "7"
+        "value": "8"
       },
       {
         "action_type": "onsite_conversion.messaging_first_reply",
@@ -263,7 +263,7 @@
       },
       {
         "action_type": "onsite_conversion.post_net_like",
-        "value": "7"
+        "value": "8"
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_started_7d",
@@ -271,44 +271,44 @@
       },
       {
         "action_type": "video_view",
-        "value": "376"
+        "value": "413"
       }
     ],
     "cost_per_action_type": [
       {
         "action_type": "video_view",
-        "value": "0.089282"
+        "value": "0.098136"
       },
       {
         "action_type": "link_click",
-        "value": "0.987353"
+        "value": "0.965"
       },
       {
         "action_type": "post_interaction_gross",
-        "value": "4.795714"
+        "value": "5.06625"
       },
       {
         "action_type": "onsite_conversion.total_messaging_connection",
-        "value": "33.57"
+        "value": "40.53"
       },
       {
         "action_type": "post_engagement",
-        "value": "0.080504"
+        "value": "0.087538"
       },
       {
         "action_type": "page_engagement",
-        "value": "0.080504"
+        "value": "0.087538"
       },
       {
         "action_type": "onsite_conversion.messaging_first_reply",
-        "value": "33.57"
+        "value": "40.53"
       },
       {
         "action_type": "onsite_conversion.messaging_conversation_started_7d",
-        "value": "33.57"
+        "value": "40.53"
       }
     ],
-    "date_start": "2026-05-08",
-    "date_stop": "2026-06-06"
+    "date_start": "2026-05-09",
+    "date_stop": "2026-06-07"
   }
 ]
